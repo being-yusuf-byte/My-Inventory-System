@@ -1,0 +1,8 @@
+Product_ID,Product_Name,Category,Stock_Level,Threshold,Unit_Price
+P001,Wireless Mouse,Peripherals,12,20,25.50
+P002,Mechanical Keyboard,Peripherals,45,30,75.00
+P003,27" Monitor,Displays,5,10,250.00
+P004,HDMI Cable,Accessories,150,50,15.00
+P005,USB-C Hub,Accessories,2,25,45.00
+P006,Gaming Headset,Audio,28,15,60.00
+P007,Webcam,Peripherals,8,20,55.00
